@@ -1,0 +1,5 @@
+client/public/uploads/*
+
+*lock.json
+
+*node_modules*
